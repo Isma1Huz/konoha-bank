@@ -95,6 +95,6 @@ For any further questions or inquiries, please contact abdiwadud.mohamedd.@gmail
 
 # License
 
-This code is developed by `Abdiwadud Mohamed` and is under the `Bisinle` License.
+This code is developed by `Ismael Hussein' and is under the `Mit` License.
 # konoha-bank
 # konoha-bank
